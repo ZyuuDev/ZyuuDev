@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ___
 
 #### follow me!
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![image](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
-![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://github.com/12Ndraaa](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.threads.com/@merthaa08](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
+![https://x.com/marlborofiltxx](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://www.instagram.com/merthaa08/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 #### Axl's Stats
 ![Axl's GitHub stats](https://github-readme-stats.vercel.app/api?username=12Ndraaa&hide=stars,prs,issues,contribs&show_icons=true&theme=dark)
