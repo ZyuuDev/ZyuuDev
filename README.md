@@ -1,4 +1,6 @@
-## Hi there 👋
+## what are u lookin for?
+
+![hello](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdtZnNkdm9hMmxiYnN6ZTlnbXNic3ljMmxrcWFyZmxlMTY5ZmV5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3UBd63oVlQLC/giphy.gif)
 
 <!--
 **12Ndraaa/12Ndraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about anything;
+- 🌱 I’m currently learning about life;
