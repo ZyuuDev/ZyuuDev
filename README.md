@@ -1,92 +1,75 @@
-![Header](./img/banner.png)
+<!--<p align="center">
+  <img src="https://files.catbox.moe/te4bg5.jpg">
+</p>-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+iqbal;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balxz&theme=onedark&row=1&column=7" alt="Trophy" />
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Welcome+Guys+😉;" />
-</h1>
-
-<h3 align="center">Saya seseorang Pengembang Website Fullstack dan juga Game Developer Junior. Yang suka sekali akan pengetahuan baru dan selalu ingin belajar hal-hal baru.</h3>
-
-<br/>
-
+# — tech stack
 <div align="center">
- 
- 🤓 Saya mahasiswa di salah satu Universitas Yogyakarta yaitu **Universitas Teknologi Yogyakarta ( UTY )**
-    
- 🎶 Saya suka mengulik hal baru dan belajar hal-hal baru terkait hobi saya.
-
- 🧐 Fun fact **Saya menyukai mie ayam 😋😋**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:inirasya16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/rasya-putra-pratama-826497329?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://syapratama.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+	
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+### — frontend
 <div align="center">
-    <p align="center">    
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,postman,npm,cloudflare,docker,linux,kubernetes,stackoverflow,powershell,ps,linkedin,jest,jenkins,ai,gradle,githubactions,devto,codepen,blender" />
-    </p>
-    <br>
-    <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,mysql,php,laravel,godot,cs,materialui,express,mongodb,unity,vite,wordpress,postgres,jquery,firebase,babel,alpinejs" /><br>
-    </p>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 </div>
 
-<br/>
-<hr/>
-
+### — backend
 <div align="center">
-  <h2>😎 Contribution Saya 😎</h2>
-  <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SyaPratama/SyaPratama/output/pacman-contribution-graph.svg">
-</picture>
 
-[![SyaPratama_Contribution](https://github-readme-activity-graph.vercel.app/graph?username=SyaPratama&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br/><br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 </div>
 
-<hr/>
+### — tools - platform 
+<div align="center">
 
-<h2 align="center">👾 Statistic Saya 👾</h2>
-<br/>
-
-<div align=center>
- <img width=413 src="https://github-readme-stats-sya.vercel.app/?user=SyaPratama&theme=tokyonight" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-syapratama.vercel.app/api?username=SyaPratama&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" alt="top langs" />
-  <img width=325 src="https://github-readme-stats-syapratama.vercel.app/api/top-langs/?username=SyaPratama&layout=compact&theme=tokyonight" alt="readme stats" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 </div>
-<br/><br/>
 
-<hr/>
 
-<br/>
 
-<h1 align="center">
-    <img src="http://github-profile-trophy.vercel.app/?username=SyaPratama&theme=darkhub"/>
-</h1>
+## — github stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=balxz&theme=dark&background=000000" alt="">
+</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
+    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balxz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balxz&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balxz&layout=compact&theme=radical" />
+</div>
 
-<br/>
-
-<h1 align="center">
-    
-![MuaKissGIF](https://github.com/user-attachments/assets/ab95c84d-fa0a-4a3f-8907-2bc97165694f)
-</h1>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Sekian+Perkenalan+Saya;+Arigatou+😁;" />
-</h1>
+## connect with me
+<p align="center">
+  <a href="https://instagram.com/iqstore78">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+</p>
