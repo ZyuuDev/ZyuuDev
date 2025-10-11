@@ -1,7 +1,7 @@
 <!--<p align="center">
   <img src="https://files.catbox.moe/te4bg5.jpg">
 </p>-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+Fairuz;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+Fairuz;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a></center>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZyuuDev&theme=onedark&row=1&column=7" alt="Trophy" />
 </p>
