@@ -3,16 +3,20 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Halo+Guys!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=700&lines=Halo+Guys!;Saya+ZyuuDev;Fullstack+Web+Developer+(Learner);Cyber+Security+Enthusiast+(Learner)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Fullstack Web Dev (Learner)</b> • <b>Junior Cyber Security (Learner)</b>
+  <b>Fullstack Web Developer (Learner)</b> • <b>Backend / API Builder</b> • <b>Cyber Security Enthusiast (Learner)</b>
 </p>
 
 <p align="center">
-  Saya seseorang yang sedang belajar dan sangat menyukai pengembangan <b>Fullstack Web</b> serta <b>Cyber Security</b>.
-  Saya suka mengeksplor teknologi baru dan membangun sesuatu dari nol sampai jadi.
+  Saya adalah pelajar yang fokus belajar membangun aplikasi web end-to-end: <b>UI</b>, <b>API</b>, sampai <b>Database</b>.
+  Saya suka proyek yang nyata, terukur, dan bisa dibuktikan lewat repo: mulai dari perancangan, implementasi, hingga deployment.
+</p>
+
+<p align="center">
+  <i>Goal:</i> siap berkontribusi sebagai <b>intern/junior</b> di tim <b>Web Development</b> (Frontend/Backend/Fullstack) sambil terus berkembang.
 </p>
 
 ---
@@ -21,13 +25,42 @@
 
 <div align="center">
 
-🎓 Siswa <b>SMK N 1 Bantul</b> — Jurusan <b>Rekayasa Perangkat Lunak (RPL)</b>  
-💡 Minat utama: <b>Web Development</b> (Front-end & Back-end)  
-🧩 Suka tantangan: membangun aplikasi end-to-end (UI, API, Database)  
-
-🧐 Fun fact: <b>Saya menyukai mie ayam</b>
+🎓 <b>Siswa SMK N 1 Bantul</b> — Jurusan <b>Rekayasa Perangkat Lunak (RPL)</b>  
+💡 Fokus: <b>Fullstack Web</b> (Frontend + Backend) & dasar-dasar <b>Cyber Security</b>  
+🧩 Senang membangun aplikasi end-to-end: <b>UI</b> → <b>API</b> → <b>Database</b> → <b>Deploy</b>  
+📌 Karakter kerja: <b>cepat belajar</b>, <b>rapi</b>, <b>konsisten</b>, suka dokumentasi & clean code
 
 </div>
+
+### Saat ini saya sedang fokus belajar / mengerjakan
+- 🔭 Membangun mini-project fullstack untuk portofolio (repo publik + README rapi)
+- 🧠 Memperdalam Backend (REST API, Auth, Database design)
+- 🛡️ Dasar cyber security: OWASP, testing sederhana, dan keamanan aplikasi web
+
+### Yang bisa saya bantu (kalau dibutuhkan)
+- Membuat halaman web (React/Vue/Next/Nuxt) dari desain sederhana
+- Membuat REST API (Node/Express atau Laravel/Nest/Django sesuai kebutuhan)
+- CRUD + Auth dasar (JWT) + integrasi database (MySQL/Postgres/Mongo)
+- Setup deployment sederhana (Vercel/Netlify) & dasar CI (GitHub Actions)
+
+### Portfolio / Project unggulan
+> (Isi sendiri ya, kalau sudah siap)
+- ⭐ <b>[Nama Project 1]</b> — (stack: ...) — (fitur: ...) — (link demo/repo)
+- ⭐ <b>[Nama Project 2]</b> — (stack: ...) — (fitur: ...) — (link demo/repo)
+
+### Pengalaman / Aktivitas
+> (Opsional, isi kalau ada)
+- 🏫 PKL/Magang: [Tempat] — [Role] — [Tanggal]
+- 🧪 CTF/Lab/Challenge: [Nama] — [Catatan singkat]
+- 🏆 Sertifikat/Kursus: [Nama] — [Penerbit] — [Tahun]
+
+### Kontak & ketersediaan
+- 📍 Lokasi: <b>[Isi: Bantul / Yogyakarta / Indonesia]</b>
+- 🕒 Ketersediaan: <b>[Isi: open for intern / freelance kecil / part-time]</b>
+- 📫 Email: <b>[ISI EMAIL]</b>
+- 💬 Prefer contact: <b>[Isi: IG/Email/WA/LinkedIn]</b>
+
+🧐 Fun fact: <b>Saya menyukai mie ayam</b>
 
 ---
 
