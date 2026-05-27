@@ -43,22 +43,12 @@
 - CRUD + Auth dasar (JWT) + integrasi database (MySQL/Postgres/Mongo)
 - Setup deployment sederhana (Vercel/Netlify) & dasar CI (GitHub Actions)
 
-### Portfolio / Project unggulan
-> (Isi sendiri ya, kalau sudah siap)
-- ⭐ <b>[Nama Project 1]</b> — (stack: ...) — (fitur: ...) — (link demo/repo)
-- ⭐ <b>[Nama Project 2]</b> — (stack: ...) — (fitur: ...) — (link demo/repo)
-
-### Pengalaman / Aktivitas
-> (Opsional, isi kalau ada)
-- 🏫 PKL/Magang: [Tempat] — [Role] — [Tanggal]
-- 🧪 CTF/Lab/Challenge: [Nama] — [Catatan singkat]
-- 🏆 Sertifikat/Kursus: [Nama] — [Penerbit] — [Tahun]
 
 ### Kontak & ketersediaan
-- 📍 Lokasi: <b>[Isi: Bantul / Yogyakarta / Indonesia]</b>
-- 🕒 Ketersediaan: <b>[Isi: open for intern / freelance kecil / part-time]</b>
-- 📫 Email: <b>[ISI EMAIL]</b>
-- 💬 Prefer contact: <b>[Isi: IG/Email/WA/LinkedIn]</b>
+- 📍 Lokasi: <b>Yogyakarta, Indonesia</b>
+- 🕒 Ketersediaan: <b>open for intern/freelance kecil/part-time</b>
+- 📫 Email: <b>zyuudev@gmail.com</b>
+- 💬 Prefer contact: <b>IG @nndaaaaxy_</b>
 
 🧐 Fun fact: <b>Saya menyukai mie ayam</b>
 
