@@ -1,10 +1,21 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/jKCfNJ1/AIEnhancer-Chat-GPT-Image-1-Feb-2026-22-1-1.png" alt="Banner" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ZyuuDev&theme=aurora&label=ZyuuDev" width="100%" alt="3D ASCII wordmark for ZyuuDev" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=700&lines=Halo+Guys!;Saya+ZyuuDev;Fullstack+Web+Developer+(Learner);Cyber+Security+Enthusiast+(Learner)" alt="Typing SVG" />
-</h1>
+#
+
+> Memorable developer positioning.
+
+##
+
+Hi, I'm **Arrasyd Nanda Fairuz**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="ZyuuDev hero section" />
+  </picture>
+</p>
 
 <p align="center">
   <b>Fullstack Web Developer (Learner)</b> • <b>Backend / API Builder</b> • <b>Cyber Security Enthusiast (Learner)</b>
@@ -84,7 +95,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 </div>
@@ -109,7 +119,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
@@ -169,7 +178,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZyuuDev&theme=dark&background=000000" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="zyuudev stats section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 heatmap section" />
+  </picture>
 </p>
 
 <div align="center">
@@ -186,8 +205,14 @@
 
 ---
 
-## Connect with me
+## Connect
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="ZyuuDev social section" />
+  </picture>
+</p>
 <p align="center">
   <a href="https://instagram.com/nndaaaaxy_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
