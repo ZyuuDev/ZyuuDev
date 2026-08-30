@@ -138,8 +138,8 @@ Hi, I'm **Arrasyd Nanda Fairuz**. This README shares what I'm building, the tool
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 heatmap section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="zyudev heatmap section" />
   </picture>
 </p>
 
