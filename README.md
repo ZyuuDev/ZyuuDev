@@ -1,172 +1,128 @@
+<div align="center">
+  <img src="assets/ascii-orbit.gif" width="360" alt="Animated ASCII orbit artwork" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <pre>
+zyuudev@github:~$ whoami
+
+Name      : Arrasyd Nanda Fairuz
+Role      : Full-Stack Developer
+Focus     : AI Engineering & IoT
+Location  : Yogyakarta, Indonesia
+Education : Software Engineering (RPL)
+
+zyuudev@github:~$ status
+
+Building practical products.
+Learning by experimenting.
+Improving by shipping.
+      </pre>
+    </td>
+    <td width="50%" valign="middle">
+      <h3>Hey, I'm Fairuz 👋</h3>
+      <p>
+        I'm a Software Engineering student who enjoys turning ideas into useful
+        digital products. I work across frontend, backend, APIs, and databases,
+        while exploring AI-powered systems and connected devices.
+      </p>
+      <p>
+        I care about solving real problems, understanding how systems work
+        beneath the interface, and building projects that go beyond prototypes.
+      </p>
+      <p>
+        <strong>Currently:</strong> Growing as a full-stack developer and working
+        toward becoming an AI engineer.
+      </p>
+      <p>
+        <a href="https://github.com/ZyuuDev">GitHub</a> ·
+        <a href="mailto:zyuudev@gmail.com">Email</a> ·
+        <a href="https://instagram.com/nndaaaaxy_">Instagram</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `$ cat /about/current-focus.txt`
+
+- **AI Engineering** — learning to build AI agents, retrieval systems, and reliable AI-powered workflows.
+- **Backend Engineering** — designing REST APIs, authentication, database structures, and maintainable services.
+- **Full-Stack Development** — building complete products with thoughtful UI, backend logic, and deployment.
+- **IoT & Applied Technology** — connecting software, sensors, and real-world problems through practical prototypes.
+
+### `$ ls ~/projects --featured`
+
+| Project | What it does |
+|:--|:--|
+| [Sentinel AI](https://github.com/ZyuuDev/Sentinel-AI) | An AI-assisted code analysis and repair platform, combining retrieval, agent workflows, patching, and testing. |
+| [ZyuuBotz V3](https://github.com/ZyuuDev/ZyuuBotz-V3) | WhatsApp bot core focused on automation, extensibility, and service development. |
+| [SASMITA LENS](https://github.com/ZyuuDev/FIKSI-SasmitaLens) | An IoT fruit-ripeness scanner that analyzes tapping sounds with a microphone and AI. |
+| [Finspire](https://github.com/ZyuuDev/Finspire-JHIC-DB) | A financial-education application designed to make money management easier to understand. |
+| [E-Teller Bank Mini](https://github.com/ZyuuDev/UKK_E-Teller_Bank_Mini_ArrasydNandaFairuz) | A school mini-bank information system with role-based access and teller workflows. |
+| [Taman Bhinneka](https://github.com/ZyuuDev/Project_Taman_Bhinneka_UGM) | An interactive digital exhibition experience for exploring Indonesian culture. |
+
+### `$ cat ~/toolbox.txt`
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>JavaScript · TypeScript · Python · PHP · Dart · SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Vite · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>FastAPI · Laravel · Node.js · Express</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL · MySQL · SQLite · pgvector</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git · GitHub Actions · Docker · Linux · Figma</td>
+  </tr>
+</table>
+
+### `$ tail -n 3 ~/learning.log`
+
+```text
+[ongoing] Python, FastAPI, and AI system design
+[ongoing] Agentic workflows, RAG, and evaluation
+[ongoing] Backend architecture, security, and deployment
+```
+
+### `$ ./recognition`
+
+🏆 **Provincial Winner — FIKSI 2026, Agribusiness** · SASMITA LENS
+
+---
+
+### `$ ./github-stats`
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=ZyuuDev&theme=aurora&label=ZyuuDev" width="100%" alt="3D ASCII wordmark for ZyuuDev" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZyuuDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=7ee787&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyuuDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" alt="Most used programming languages" />
 </p>
 
-#
-
-> Memorable developer positioning.
-
-##
-
-Hi, I'm **Arrasyd Nanda Fairuz**. This README shares what I'm building, the tools I use, and the work I'm proud of.
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="ZyuuDev hero section" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>Fullstack Web Developer (Learner)</b> • <b>Backend / API Builder</b> • <b>Cybersecurity Enthusiast (Learner)</b>
-</p>
-
-<p align="center">
-  I am a student focused on learning how to build end-to-end web applications: from <b>UI</b>, to <b>API</b>, to <b>Database</b>.
-  I enjoy creating practical and measurable projects that can be demonstrated through repositories—from planning and implementation to deployment.
-</p>
-
-<p align="center">
-  <i>Goal:</i> to contribute as an <b>intern/junior developer</b> in a <b>Web Development</b> team (Frontend/Backend/Fullstack) while continuously improving.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZyuuDev&bg_color=0d1117&color=c9d1d9&line=3fb950&point=7ee787&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## About Me
-
-<div align="center">
-
-🎓 <b>Student at SMK N 1 Bantul</b> — Major in <b>Software Engineering (RPL)</b>  
-💡 Focus: <b>Fullstack Web Development</b> (Frontend + Backend) and fundamentals of <b>Cybersecurity</b>  
-🧩 Enjoy building end-to-end applications: <b>UI</b> → <b>API</b> → <b>Database</b> → <b>Deployment</b>  
-📌 Work style: <b>fast learner</b>, <b>organized</b>, <b>consistent</b>, with strong interest in documentation and clean code
-
-</div>
-
-### Current Learning Focus
-- 🔭 Building fullstack mini-projects for portfolio development (public repositories + well-structured README)
-- 🧠 Deepening backend skills (REST API, authentication, and database design)
-- 🛡️ Learning cybersecurity fundamentals: OWASP, basic testing, and web application security
-
-### What I Can Help With
-- Building web interfaces using React/Vue/Next/Nuxt from simple design references
-- Developing REST APIs (Node/Express or Laravel/Nest/Django, based on project requirements)
-- Implementing CRUD + basic JWT authentication + database integration (MySQL/PostgreSQL/MongoDB)
-- Setting up basic deployment (Vercel/Netlify) and CI fundamentals (GitHub Actions)
-
-### Contact & Availability
-- 📍 Location: <b>Yogyakarta, Indonesia</b>
-- 🕒 Availability: <b>open for internships, small freelance projects, and part-time opportunities</b>
-- 📫 Email: <b>zyuudev@gmail.com</b>
-- 💬 Preferred contact: <b>Instagram @nndaaaaxy_</b>
-
-🧐 Fun fact: <b>I love chicken noodle soup (mie ayam)</b>
-
----
-
-## Tech Stack
-
-> Note: These are technologies I have used or am currently learning. This stack will continue to grow. 🚀
-
-### Languages & Fundamentals
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,bash,html,css,markdown" height="44" />
-</div>
-
-### Frontend
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,vite,tailwind,bootstrap,materialui" height="44" />
-</div>
-
-### Backend
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,nestjs,django" height="44" />
-</div>
-
-### Database
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" height="44" />
-</div>
-
-### API / Auth / Networking
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,postman" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" alt="OAuth" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg" alt="JWT" height="44" />
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/api-settings.png" alt="REST API" height="44" />
-</div>
-
-### DevOps / Cloud / Deployment
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,nginx,vercel,netlify,cloudflare" height="44" />
-</div>
-
-### Tools / Editor / Design
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,figma" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="44" />
-</div>
-
-### Cybersecurity (Learning)
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" height="44" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" height="44" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="44" />
-  <img src="https://cdn.simpleicons.org/metasploit/2E2E2E" alt="Metasploit" height="44" />
-  <img src="https://cdn.simpleicons.org/owasp/000000" alt="OWASP" height="44" />
-  <img src="https://img.icons8.com/color/48/network-card.png" alt="Nmap" height="44" />
-</div>
-
----
-
-## GitHub Stats
+### `$ ./connect`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="zyuudev stats section" />
-  </picture>
+  <a href="https://github.com/ZyuuDev">GitHub</a> ·
+  <a href="mailto:zyuudev@gmail.com">zyuudev@gmail.com</a> ·
+  <a href="https://instagram.com/nndaaaaxy_">@nndaaaaxy_</a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="zyudev heatmap section" />
-  </picture>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZyuuDev/ZyuuDev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZyuuDev/ZyuuDev/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ZyuuDev/ZyuuDev/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZyuuDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=ZyuuDev&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="ZyuuDev social section" />
-  </picture>
-</p>
-<p align="center">
-  <a href="https://instagram.com/nndaaaaxy_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<p align="center"><sub>Curious by nature. Built one commit at a time.</sub></p>
