@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510">
+<rect width="100%" height="100%" rx="20" fill="#0e1319" stroke="#26313b" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="48" rx="19" fill="#151c24"/>
+<rect x="1" y="29" width="1198" height="20" fill="#151c24"/>
+<circle cx="28" cy="24" r="7" fill="#ff625a"/><circle cx="52" cy="24" r="7" fill="#f5c451"/><circle cx="76" cy="24" r="7" fill="#45c878"/>
+<text x="110" y="31" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="17" font-weight="400" text-anchor="start">ls -la ~/projects --featured</text>
+<text x="44" y="91" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="18" font-weight="700" text-anchor="start">drwxr-xr-x  projects/</text>
+<rect x="48" y="126" width="25" height="25" rx="5" fill="#e7d35b"/>
+<text x="60.5" y="145" fill="#0b0f12" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="700" text-anchor="middle">A</text>
+<text x="91" y="145" fill="#68a9ff" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="19" font-weight="700" text-anchor="start">Sentinel-AI</text>
+<text x="565" y="145" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="400" text-anchor="start">AI-assisted code analysis, retrieval and repair workflows</text>
+<text x="1145" y="145" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="20" font-weight="700" text-anchor="end">↗</text>
+<line x1="38" y1="173" x2="1160" y2="173" stroke="#26313b" stroke-width="1"/>
+<rect x="48" y="182" width="25" height="25" rx="5" fill="#67d5d0"/>
+<text x="60.5" y="201" fill="#0b0f12" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="700" text-anchor="middle">Z</text>
+<text x="91" y="201" fill="#68a9ff" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="19" font-weight="700" text-anchor="start">ZyuuBotz-V3</text>
+<text x="565" y="201" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="400" text-anchor="start">WhatsApp automation platform and bot core</text>
+<text x="1145" y="201" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="20" font-weight="700" text-anchor="end">↗</text>
+<line x1="38" y1="229" x2="1160" y2="229" stroke="#26313b" stroke-width="1"/>
+<rect x="48" y="238" width="25" height="25" rx="5" fill="#68a9ff"/>
+<text x="60.5" y="257" fill="#0b0f12" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="700" text-anchor="middle">S</text>
+<text x="91" y="257" fill="#68a9ff" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="19" font-weight="700" text-anchor="start">FIKSI-SasmitaLens</text>
+<text x="565" y="257" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="400" text-anchor="start">IoT fruit-ripeness scanner using sound analysis + AI</text>
+<text x="1145" y="257" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="20" font-weight="700" text-anchor="end">↗</text>
+<line x1="38" y1="285" x2="1160" y2="285" stroke="#26313b" stroke-width="1"/>
+<rect x="48" y="294" width="25" height="25" rx="5" fill="#59d68b"/>
+<text x="60.5" y="313" fill="#0b0f12" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="700" text-anchor="middle">F</text>
+<text x="91" y="313" fill="#68a9ff" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="19" font-weight="700" text-anchor="start">Finspire-JHIC-DB</text>
+<text x="565" y="313" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="400" text-anchor="start">Financial-literacy learning platform for students</text>
+<text x="1145" y="313" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="20" font-weight="700" text-anchor="end">↗</text>
+<line x1="38" y1="341" x2="1160" y2="341" stroke="#26313b" stroke-width="1"/>
+<rect x="48" y="350" width="25" height="25" rx="5" fill="#b68cff"/>
+<text x="60.5" y="369" fill="#0b0f12" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="700" text-anchor="middle">B</text>
+<text x="91" y="369" fill="#68a9ff" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="19" font-weight="700" text-anchor="start">UKK_E-Teller_Bank_Mini_ArrasydNanda...</text>
+<text x="565" y="369" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="400" text-anchor="start">School mini-bank system with teller workflows and RBAC</text>
+<text x="1145" y="369" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="20" font-weight="700" text-anchor="end">↗</text>
+<line x1="38" y1="397" x2="1160" y2="397" stroke="#26313b" stroke-width="1"/>
+<rect x="48" y="406" width="25" height="25" rx="5" fill="#e7d35b"/>
+<text x="60.5" y="425" fill="#0b0f12" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="700" text-anchor="middle">N</text>
+<text x="91" y="425" fill="#68a9ff" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="19" font-weight="700" text-anchor="start">Project_Taman_Bhinneka_UGM</text>
+<text x="565" y="425" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="15" font-weight="400" text-anchor="start">Interactive digital exhibition for Nusantara culture</text>
+<text x="1145" y="425" fill="#59d68b" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="20" font-weight="700" text-anchor="end">↗</text>
+<text x="44" y="485" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="14" font-weight="400" text-anchor="start">6 featured repositories  •  click the project links below</text>
+</svg>
