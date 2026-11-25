@@ -199,7 +199,7 @@
 <text x="835" y="186" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="start">ACTIVE DAYS</text>
 <text x="835" y="212" fill="#d6dee6" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="23" font-weight="700" text-anchor="start">93</text>
 <text x="835" y="238" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="start">CURRENT STREAK</text>
-<text x="835" y="264" fill="#d6dee6" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="23" font-weight="700" text-anchor="start">1 days</text>
+<text x="835" y="264" fill="#d6dee6" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="23" font-weight="700" text-anchor="start">0 days</text>
 <text x="835" y="290" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="12" font-weight="700" text-anchor="start">BEST STREAK</text>
 <text x="835" y="316" fill="#d6dee6" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="23" font-weight="700" text-anchor="start">35 days</text>
 <text x="48" y="349" fill="#74818d" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="12" font-weight="400" text-anchor="start">preview grid is illustrative until the first successful GitHub Actions sync</text>
